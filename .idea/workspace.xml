@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ed29e60-d5a9-4c92-a942-da6d64234575" name="Default" comment="" />
+    <list default="true" id="6ed29e60-d5a9-4c92-a942-da6d64234575" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Screens/Camera.js" afterPath="$PROJECT_DIR$/Screens/Camera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Screens/Home.js" afterPath="$PROJECT_DIR$/Screens/Home.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +29,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewImage.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ViewImage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Screens/ViewImage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
+            <state relative-caret-position="1768">
               <caret line="112" column="24" lean-forward="false" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
               <folding />
             </state>
@@ -59,8 +62,8 @@
       <file leaf-file-name="Colors.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/constants/Colors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="315">
+              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -69,25 +72,25 @@
       <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Screens/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+            <state relative-caret-position="94">
+              <caret line="53" column="46" lean-forward="false" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
               <folding>
                 <element signature="e#50#91#0" expanded="true" />
                 <element signature="e#315#409#0" expanded="true" />
-                <element signature="e#3267#3759#0" expanded="false" />
-                <element signature="e#3788#4312#0" expanded="false" />
-                <element signature="e#4341#4871#0" expanded="false" />
-                <element signature="e#5552#7729#0" expanded="false" />
+                <element signature="e#3264#3756#0" expanded="false" />
+                <element signature="e#3785#4309#0" expanded="false" />
+                <element signature="e#4338#4868#0" expanded="false" />
+                <element signature="e#5549#7726#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Camera.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Camera.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Screens/Camera.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="124" column="21" lean-forward="false" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
+            <state relative-caret-position="118">
+              <caret line="27" column="75" lean-forward="false" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
               <folding>
                 <element signature="e#50#91#0" expanded="true" />
                 <element signature="e#315#433#0" expanded="true" />
@@ -156,10 +159,10 @@
         <option value="$PROJECT_DIR$/constants/Colors.js" />
         <option value="$PROJECT_DIR$/Screens/Login.js" />
         <option value="$PROJECT_DIR$/constants/images.js" />
-        <option value="$PROJECT_DIR$/Screens/Camera.js" />
         <option value="$PROJECT_DIR$/App.js" />
-        <option value="$PROJECT_DIR$/Screens/Home.js" />
         <option value="$PROJECT_DIR$/Screens/ViewImage.js" />
+        <option value="$PROJECT_DIR$/Screens/Home.js" />
+        <option value="$PROJECT_DIR$/Screens/Camera.js" />
       </list>
     </option>
   </component>
@@ -381,15 +384,15 @@
       <workItem from="1591853990996" duration="2423000" />
       <workItem from="1592601772122" duration="95000" />
       <workItem from="1592635869391" duration="34727000" />
-      <workItem from="1592726940005" duration="596000" />
+      <workItem from="1592726940005" duration="1002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44308000" />
+    <option name="totallyTimeSpent" value="44714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -467,10 +470,10 @@
           <folding>
             <element signature="e#50#91#0" expanded="true" />
             <element signature="e#315#409#0" expanded="true" />
-            <element signature="e#3267#3759#0" expanded="false" />
-            <element signature="e#3788#4312#0" expanded="false" />
-            <element signature="e#4341#4871#0" expanded="false" />
-            <element signature="e#5552#7729#0" expanded="false" />
+            <element signature="e#3264#3756#0" expanded="false" />
+            <element signature="e#3785#4309#0" expanded="false" />
+            <element signature="e#4338#4868#0" expanded="false" />
+            <element signature="e#5549#7726#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -656,14 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constants/Colors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-native-elements/src/buttons/Button.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -682,17 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Screens/Camera.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="124" column="21" lean-forward="false" selection-start-line="124" selection-start-column="21" selection-end-line="124" selection-end-column="21" />
-          <folding>
-            <element signature="e#50#91#0" expanded="true" />
-            <element signature="e#315#433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -705,26 +689,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Screens/ViewImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="112" column="24" lean-forward="false" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Screens/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+        <state relative-caret-position="94">
+          <caret line="53" column="46" lean-forward="false" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
           <folding>
             <element signature="e#50#91#0" expanded="true" />
             <element signature="e#315#409#0" expanded="true" />
-            <element signature="e#3267#3759#0" expanded="false" />
-            <element signature="e#3788#4312#0" expanded="false" />
-            <element signature="e#4341#4871#0" expanded="false" />
-            <element signature="e#5552#7729#0" expanded="false" />
+            <element signature="e#3264#3756#0" expanded="false" />
+            <element signature="e#3785#4309#0" expanded="false" />
+            <element signature="e#4338#4868#0" expanded="false" />
+            <element signature="e#5549#7726#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Screens/ViewImage.js">
+    <entry file="file://$PROJECT_DIR$/constants/Colors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="112" column="24" lean-forward="false" selection-start-line="112" selection-start-column="24" selection-end-line="112" selection-end-column="24" />
+        <state relative-caret-position="315">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Screens/Camera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="27" column="75" lean-forward="false" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
+          <folding>
+            <element signature="e#50#91#0" expanded="true" />
+            <element signature="e#315#433#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

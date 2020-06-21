@@ -25,7 +25,7 @@ export default class Camera extends Component{
                 <Content>
                     <View  style={styles.square}>
 <View style={styles.square2}>
-    <Entypo style={{marginTop:30,textAlign:'center'}} name="upload" size={50} color="black" />
+    <Entypo style={{marginTop:30,textAlign:'center'}} name="upload" size={60} color="#7B7B7B" />
 </View>
                     </View>
                 </Content>

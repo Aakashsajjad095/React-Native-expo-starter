@@ -51,7 +51,7 @@ export default class Home extends Component{
     openCameraScreen = () =>{
         // this.props.navigation.goBack(null);
         // Alert.alert("Foods & Drinks Screen open")
-        this.props.navigation.navigate('ViewImage')
+        this.props.navigation.navigate('Camera')
     }
     onValueChange(value) {
         Alert.alert(value)
